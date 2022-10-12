@@ -28,12 +28,16 @@ Click on create budget: <br/>
 <img src="https://i.imgur.com/9BzEnQ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select custom budget:  <br/>
-<img src="https://i.imgur.com/Iaw8Mso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select customized (advanced) and click on cost budget the scroll down and click on 'Next':  <br/>
+<img src="https://i.imgur.com/Au457NM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Input the name you want for your budget :  <br/>
+<img src="https://i.imgur.com/e57jASt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Set budget amount in this case I set my budget to 1$ :  <br/>
+<img src="https://i.imgur.com/FycfmDq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
