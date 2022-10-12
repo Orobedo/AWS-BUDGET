@@ -48,16 +48,16 @@ For budget scope, click on the drop down arrow and select all the budgeting will
 <img src="https://i.imgur.com/lsFC7Gk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- For budget scope, click on the drop down arrow and select all the budgeting will cover, I selected all  <br/>
-<img src="https://i.imgur.com/aEs0kkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Set the percentage of your threshold, In my case I set it to 80% so When your actual cost is greater than 80.00% ($0.80) of your budgeted amount ($1.00), the alert threshold will be exceeded,Also input an E-mail that would be notified if you have exceeded your threshold.. After that click on 'Next'  <br/>
+<img src="https://i.imgur.com/YM7fnf8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- For budget scope, click on the drop down arrow and select all the budgeting will cover, I selected all  <br/>
-<img src="https://i.imgur.com/aEs0kkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Review all you have inputed if correct scroll down and click on 'Create Budget'  <br/>
+<img src="https://i.imgur.com/FvrkLiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Budget successfully created!:  <br/>
+<img src="https://i.imgur.com/tYKXCYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
