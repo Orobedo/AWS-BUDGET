@@ -1,4 +1,4 @@
-<h1>JWipe - AWS BUDGET</h1>
+<h1> - AWS BUDGET</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -40,8 +40,20 @@ Input the name you want for your budget :  <br/>
 <img src="https://i.imgur.com/FycfmDq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+For budget scope, click on the drop down arrow and select all the budgeting will cover, I selected all then click on 'Next'  <br/>
+<img src="https://i.imgur.com/aEs0kkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Then configure alerts by selecting 'Add alert threshold'  <br/>
+<img src="https://i.imgur.com/lsFC7Gk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ For budget scope, click on the drop down arrow and select all the budgeting will cover, I selected all  <br/>
+<img src="https://i.imgur.com/aEs0kkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ For budget scope, click on the drop down arrow and select all the budgeting will cover, I selected all  <br/>
+<img src="https://i.imgur.com/aEs0kkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
